@@ -10,7 +10,7 @@ interface TeamProps {
 }
 
 function Welcome() {
-  return <h1>The Best Music Trios</h1>;
+  return <h1>Looking ahead to March Madness, lets check out the NCAA teams</h1>;
 }
 
 class Team extends React.Component<TeamProps> {
